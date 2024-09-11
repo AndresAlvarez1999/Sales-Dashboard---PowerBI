@@ -3,6 +3,8 @@ Project Overview:
 
 This Power BI project presents a comprehensive Sales Dashboard designed to provide insights into sales performance over time, across different products, countries, and market segments. The dashboard visually displays key metrics such as total sales, items sold, profit, and margin ratios. This project is useful for stakeholders looking to understand sales trends and profitability across different business areas.
 
+![Data Project - Dashboard Sales - Andrés Álvarez_pages-to-jpg-0001](https://github.com/user-attachments/assets/129f275a-ec00-4891-b125-1fedbce4841a)
+
 Key Features
 Sales by Month and Year:
 
