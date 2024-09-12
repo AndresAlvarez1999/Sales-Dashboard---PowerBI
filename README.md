@@ -21,6 +21,9 @@ A table detailing the quantity of items sold for each product, giving a clear vi
 Profit by Month and Year:
 
 Similar to the sales breakdown, this line chart shows profit trends over the months of 2013 and 2014, helping to identify profitable periods.
+
+![Data Project - Dashboard Sales - Andrés Álvarez_pages-to-jpg-0002](https://github.com/user-attachments/assets/ac108ee3-f894-458a-aac8-5cc65dbdd3a3)
+
 Profit by Product and Year:
 
 A bar chart comparing profit margins for each product over the two-year period. Stakeholders can assess the profitability of each product, not just their sales performance.
