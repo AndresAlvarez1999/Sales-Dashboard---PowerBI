@@ -34,11 +34,19 @@ Margin Ratio by Product:
 
 This visual displays margin ratios for each product, providing a quick view of the most profitable products in terms of percentage margins.
 Technologies Used
+
 Power BI: Data visualization and dashboard creation.
+
 Data Source: The sales and profit data spans across various years, countries, and products.
+
 Insights Gained
+
 Top-selling Products: Paseo and VTT are the top-performing products in terms of sales and items sold.
+
 Profitable Regions: The United States and France lead in terms of both sales and profit.
+
 Seasonal Trends: Both sales and profit peak in certain months, showing clear seasonal patterns in demand.
+
 Conclusion
+
 This dashboard offers a detailed view of the company's sales and profit performance across different products and regions. It helps stakeholders track progress, identify key areas for improvement, and make data-driven decisions for future strategies.
